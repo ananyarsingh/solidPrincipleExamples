@@ -12,5 +12,5 @@ public class Invoice {
 
 //Good example  :
     //Inventory Repository would help in saving to database
-    //sending email class would send notifications to the user 
+    //sending email class would send notifications to the user
 }
